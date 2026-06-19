@@ -1,0 +1,8 @@
+.Trash-0/
+.ipynb_checkpoints/
+output/
+spark-demo/output/
+*.crc
+__pycache__/
+*.pyc
+.env
